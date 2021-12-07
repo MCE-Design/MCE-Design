@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=black" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
