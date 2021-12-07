@@ -1,7 +1,7 @@
-#About
+# About
 <h3>I'm a full-stack web developer, UI/UX designer, and graphic designer</h3>
 
-<h3>Skills</h3>
+## Skills
 <p style="border-top: 1px solid #AAAAAA;">
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -71,6 +71,8 @@
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
   </a>
 </p>
+
+## Stats
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MCE-design&show_icons=true&locale=en&layout=compact" alt="Michael's Language Stats" /></p>
 
