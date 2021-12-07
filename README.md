@@ -2,6 +2,7 @@
 <h3>Full-stack web developer.</h3>
 
 <h3>Skills</h3>
+</br>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="background-color: #FFFFFF;" alt="express" width="40" height="40"/></a>
