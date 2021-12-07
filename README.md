@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
   <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=orange" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FA6531" />
   </a>
 
   <!-- ide -->
@@ -62,7 +62,7 @@
 
   <!-- misc -->
   <a href="https://www.adobe.com/products/illustrator" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF7D00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-F79500?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=310000" />
   </a>
   <a href="https://www.adobe.com/products/photoshop" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-2FA3F7?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=001D34" />
