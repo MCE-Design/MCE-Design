@@ -2,7 +2,7 @@
 <h3>I'm a full-stack web developer, UI/UX designer, and graphic designer</h3>
 
 ## Skills
-<p style="border-top: 1px solid #AAAAAA;">
+<p>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>
@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF7D00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
   </a>
   <a href="https://www.adobe.com/products/photoshop" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-0A519B?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-2FA3F7?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=001D34" />
   </a>
   <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701" target="_blank">
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
