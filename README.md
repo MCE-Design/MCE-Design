@@ -1,36 +1,75 @@
 <h1>Hi there 👋 I'm Michael!</h1>
-<h3>Full-stack web developer.</h3>
+<h3>I'm a full-stack web developer, UI/UX designer, and graphic designer</h3>
 
 <h3>Skills</h3>
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<p style="border-top: 1px solid #AAAAAA;">
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD845" />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-3D8FC6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E54D26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
 
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://nodejs.org/en/" taret="_blank">
+    <img src="https://img.shields.io/badge/Node.js-83CD29?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  </a>
+  <a href="http://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
 
   <!-- hosting -->
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-F7A80D?style=for-the-badge&logo=amazon&logoColor=white" />
+  <a href="https://www.heroku.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-F7A80D?style=for-the-badge&logo=amazon&logoColor=white" />
+  </a>
+
   <!-- os -->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=orange" />
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=orange" />
+  </a>
+
   <!-- ide -->
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </a>
+
   <!-- misc -->
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF7D00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-0A519B?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+  <a href="https://www.adobe.com/products/illustrator" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF7D00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-0A519B?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701" target="_blank">
+    <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+  </a>
 </p>
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MCE-design&show_icons=true&locale=en&layout=compact" alt="Michael's Language Stats" /></p>
