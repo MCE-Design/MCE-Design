@@ -1,5 +1,5 @@
 # About
-<p>I'm a full-stack web developer, UI/UX designer, and graphic designer — as well as a few other things.</p>
+<p>I'm a full-stack web developer; as well as a UI/UX designer and graphic designer — and a few other things.</p>
 <p></p>
 
 ## Skills
