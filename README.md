@@ -1,6 +1,6 @@
 # About
 <p>I'm a full-stack web developer; as well as a UI/UX designer and graphic designer — and a few other things.</p>
-<p></p>
+<br />
 
 ## Skills
 <p>
@@ -16,7 +16,6 @@
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E54D26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
-
   <!-- Frameworks -->
   <a href="https://nodejs.org/en/" taret="_blank">
     <img src="https://img.shields.io/badge/Node.js-83CD29?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -39,7 +38,7 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
-
+  
   <!-- hosting -->
   <a href="https://www.heroku.com/" target="_blank">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
