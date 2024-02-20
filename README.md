@@ -76,7 +76,7 @@
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MCE-design&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Michael's Language Stats" /></p>
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MCE-Design&show_icons=true&locale=en&theme=tokyonight" alt="Michael's Github Stats" /></p>
+<!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MCE-Design&show_icons=true&locale=en&theme=tokyonight" alt="Michael's Github Stats" /></p> -->
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MCE-Design&theme=tokyonight" alt="Michael's Streak Stats" /></p>
 
