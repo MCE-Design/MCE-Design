@@ -78,7 +78,7 @@
 
 <!-- <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MCE-Design&show_icons=true&locale=en&theme=tokyonight" alt="Michael's Github Stats" /></p> -->
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MCE-Design&theme=tokyonight" alt="Michael's Streak Stats" /></p>
+<p align = "center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MCE-Design&theme=tokyonight" alt="Michael's Streak Stats" /></p>
 
 <!--
 **MCE-Design/MCE-Design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
